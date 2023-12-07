@@ -1,4 +1,4 @@
-
+![Head](https://www.cinntra.com/assets/img/services-img/Software-Quality-Assurance.gif)
 <h1 align="center">Hi 👋, I'm Khadijah Saleh</h1>
 <h3 align="center">A passionate Quality Assurance Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2441144/screenshots/6176495/1.quality_dribbble.gif">
